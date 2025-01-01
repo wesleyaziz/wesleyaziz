@@ -28,6 +28,8 @@ Currently learning: Tailwind CSS, Vue.js , interactive web design.
 ![Static Badge](https://img.shields.io/badge/GSAP-%2388cf00?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/swiper-%236332F6?style=for-the-badge&logo=swiper)
 ![Static Badge](https://img.shields.io/badge/Sortable-%235f9ad6?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/AOS-%234a4a4a?style=for-the-badge)
+
 
 
 ## Development Tool skills
