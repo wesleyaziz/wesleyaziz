@@ -4,9 +4,9 @@ I'm Wesley Wong, a front-end developer from Taiwan.
 
 我是 Wesley Wong，一名來自台灣的前端工程師。
 
-Visit my portfolio website: [wesleywong.com](https://profile-3wzre94qq-wesley-wongs-projects.vercel.app/)
+Visit my portfolio website: [wesleywong.com](https://profile-liart-one.vercel.app/)
 
-歡迎參觀我的個人作品集網站: [wesleywong.com](https://profile-3wzre94qq-wesley-wongs-projects.vercel.app/)
+歡迎參觀我的個人作品集網站: [wesleywong.com](https://profile-liart-one.vercel.app/)
 
 Currently learning: Tailwind CSS, Vue.js , interactive web design.
 
