@@ -10,7 +10,7 @@ Visit my portfolio website: [wesleywong.com](https://profile-wesley-wongs-projec
 
 Currently learning: Tailwind CSS, Vue.js , interactive web design.
 
-目前正在學習: Tailwind CSS, Vue.js , 網頁交互設計
+目前正在學習: Tailwind CSS, React.js , 網頁交互設計
 
 ## Front-end Skills
 
