@@ -10,7 +10,7 @@ Visit my portfolio website: [wesleywong.com](https://profile-wesley-wongs-projec
 
 Currently learning: Tailwind CSS, Vue.js , interactive web design.
 
-目前正在學習: Tailwind CSS, React.js , 網頁交互設計
+目前正在學習:React.js , 網頁交互設計
 
 ## Front-end Skills
 
@@ -20,11 +20,15 @@ Currently learning: Tailwind CSS, Vue.js , interactive web design.
 ![Static Badge](https://img.shields.io/badge/pug-%23A86454?style=for-the-badge&logo=pug&logoColor=%23fff)
 ![Static Badge](https://img.shields.io/badge/sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=%23fff)
 ![Static Badge](https://img.shields.io/badge/Webpack-%238DD6F9?style=for-the-badge&logo=webpack&logoColor=%23000)
+![Static Badge](https://img.shields.io/badge/axios-%235A29E4?style=for-the-badge&logo=axios&logoColor=white)
+
+
 
 
 ## Library / Framework
 
 ![Static Badge](https://img.shields.io/badge/bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/Tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/GSAP-%2388cf00?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/swiper-%236332F6?style=for-the-badge&logo=swiper)
 ![Static Badge](https://img.shields.io/badge/Sortable-%235f9ad6?style=for-the-badge)
